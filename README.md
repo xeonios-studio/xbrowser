@@ -14,4 +14,4 @@ Ein moderner, minimalistischer Webbrowser mit einfacher Benutzeroberfläche und 
 ## Installation
 1. Lade das Repository herunter:
    ```bash
-   git clone https://github.com/deinbenutzername/xbrowser.git
+   git clone https://github.com/xeonios-studio/xbrowser.git
