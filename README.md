@@ -2,7 +2,7 @@
 
 Ein moderner, minimalistischer Webbrowser mit einfacher Benutzeroberfläche und Dark-Mode-Unterstützung.
 
-![xBrowser Screenshot](![Screenshot](https://github.com/user-attachments/assets/024e9cb8-18d5-418a-b03d-54ba07875bb0))
+![xBrowser Screenshot](![Screenshot](https://github.com/user-attachments/assets/024e9cb8-18d5-418a-b03d-54ba07875bb0)
 
 ## Funktionen
 - **Benutzerfreundliches Design**: Intuitive Oberfläche für einfaches Browsen.
